@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f9fafb;
+  background-image: url("/images/form-background.jpg");
   font-family: "Jomolhari", serif;
   display: flex;
   align-items: center;
@@ -20,10 +20,10 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: rgba(42, 50, 75, 0.9);
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
-  width: 450px;
+  width: 425px;
 }
 
 .form {
@@ -33,6 +33,7 @@ body {
 h2 {
   text-align: center;
   margin: 0 0 20px;
+  color: #fff;
 }
 
 .form-control {
@@ -42,7 +43,7 @@ h2 {
 }
 
 .form-control label {
-  color: #777;
+  color: #fff;
   display: block;
   margin-bottom: 5px;
 }
@@ -83,8 +84,8 @@ h2 {
 
 .form-button {
   cursor: pointer;
-  background-color: #3498db;
-  border: 2px solid #3498db;
+  background-color: #767b91;
+  border: 2px solid #767b91;
   border-radius: 5px;
   color: #fff;
   display: block;
