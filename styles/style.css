@@ -94,3 +94,10 @@ h2 {
   margin-top: 20px;
   width: 100%;
 }
+
+@media screen and (max-width: 420px) {
+  .container {
+    background-color: #2a324be6;
+    width: 90vw;
+  }
+}
