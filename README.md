@@ -17,3 +17,9 @@ There is a media query in the css so that the form can be viewed properly on mob
 #### Furture Plans
 
 I intend to keep updating this project by improving the form validation and improving the UI as well.
+
+#### References
+
+Thanks to Brad Traversy for providing the initial idea for this project.
+
+Image credit goes to Photo by Desola Lanre-Ologun on Unsplash.
